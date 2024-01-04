@@ -1,1 +1,3 @@
-# foresight-learning.github.io
+# Welcome to Foresight Learning
+
+"Knowledge not shared remains unknown"
